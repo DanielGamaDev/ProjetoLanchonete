@@ -1,3 +1,4 @@
+# By Daniel Gama
 # IMPORTAÇÕES
 # VARIÁVEIS
 # FUNÇÕES
